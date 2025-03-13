@@ -13,7 +13,7 @@ export const createHeroImage = () => {
   
   // Crear la imagen
   const img = document.createElement('img');
-  img.src = '/public/avatar.png';
+  img.src = '/avatar.png';
   img.alt = 'Foto de perfil';
   
   // Construir la estructura
